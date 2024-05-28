@@ -3,7 +3,7 @@
 This is an experimental Image Segmentation project for Breast Cancer Histopathological Images based on
 the <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>, and
 Breast-Cancer-ImageMask-Dataset 
-<a href="https://drive.google.com/file/d/1B3QfYxi52UqyVxcfxnRoGYw79KLIn-XA/view?usp=sharing">Non-Tiled-Breast-Cancer-ImageMask-Dataset-V1.zip.</a>
+<a href="https://drive.google.com/file/d/1B3QfYxi52UqyVxcfxnRoGYw79KLIn-XA/view?usp=sharing">Non-Tiled-Breast-Cancer-ImageMask-Dataset-V1.zip</a>
 , which was derived by us from <a href="https://github.com/PathologyDataScience/BCSS">
 Breast Cancer Semantic Segmentation (BCSS) dataset
 </a>
