@@ -217,7 +217,7 @@ threshold = 118
 ;threshold = 80
 </pre>
 
-The training process has just been stopped at epoch 97 by an early-stopping callback as shown below.<br><br>
+The training process has just been stopped at epoch 60 by an early-stopping callback as shown below.<br><br>
 <img src="./projects/TensorflowSlightlyFlexibleUNet/Breast-Cancer/asset/train_console_output_at_epoch_60.png" width="720" height="auto"><br>
 <br>
 <br>
