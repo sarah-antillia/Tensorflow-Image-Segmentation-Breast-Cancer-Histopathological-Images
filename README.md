@@ -91,11 +91,9 @@ This dataset itself is licensed under a CC0 1.0 Universal (CC0 1.0) license.
 </a>
 </h3>
  If you would like to train this Breast-Cancer Segmentation model by yourself,
- please download the latest normalized dataset from the google drive 
-<a href="https://drive.google.com/file/d/1cOSiTXeU_l8duN_DNTyPFnfeZEuMKodn/view?usp=sharing">
-Breast-Cancer-ImageMask-Dataset-V1.zip</a>.<br>
-
-
+ please download the dataset from the google drive  
+<a href="https://drive.google.com/file/d/1B3QfYxi52UqyVxcfxnRoGYw79KLIn-XA/view?usp=sharing">Non-Tiled-Breast-Cancer-ImageMask-Dataset-V1.zip</a>
+<br>
 <br>
 Please expand the downloaded ImageMaskDataset and place them under <b>./dataset</b> folder to be
 <pre>
